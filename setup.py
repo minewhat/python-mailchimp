@@ -18,9 +18,9 @@ setup(
     version='1.0.18',
     description='A python client for v3 of MailChimp API',
     long_description=long_description,
-    url='https://github.com/charlesthk/python-mailchimp',
-    author='Charles TISSIER',
-    author_email='charles@vingtcinq.io',
+    url='https://github.com/minewhat/python-mailchimp',
+    author='Sumit Kumar',
+    author_email='sumitkumar1209@gmail.com',
     license='MIT',
     classifiers=[
         'Development Status :: 5 - Production/Stable',
